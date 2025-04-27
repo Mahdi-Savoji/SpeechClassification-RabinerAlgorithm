@@ -29,7 +29,7 @@ It features a **Tkinter GUI** to record audio live, analyze it, and visualize bo
 
 ## Screenshots
 
-![](E:\GitHub\SpeechClassification-RabinerAlgorithm\app-image.png)
+![](./app-image.png)
 
 ---
 
