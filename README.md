@@ -96,12 +96,6 @@ pip install numpy matplotlib sounddevice librosa
 
 ---
 
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## Acknowledgements
 - Based on the classic method proposed by **Lawrence Rabiner** for speech signal classification.
 - Thanks to open-source libraries like NumPy, Matplotlib, SoundDevice, and Librosa for making audio processing easy!
